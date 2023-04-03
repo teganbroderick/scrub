@@ -4,7 +4,7 @@
 https://github.com/teganbroderick/scrub/blob/main/scrub.rb
 
 ### Instructions for running the code (Mac)
-1. Clone this GitHub repo.
+1. Clone this GitHub repo: https://github.com/teganbroderick/scrub.
 2. In the terminal, move into the `scrub` directory.
 3. Make the `scrub.rb` file executable by running the following command: `chmod +x scrub.rb`.
 4. Run the file followed by two command line arguments — a `sensitive_fields.txt` file and an `input.json` file, eg. `./scrub.rb sensitive_fields.txt input.json`.
